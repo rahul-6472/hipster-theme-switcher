@@ -43,10 +43,11 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/theme-switcher-app.git
+git clone https://github.com/rahul-6472/hipster-theme-switcher-app.git
 cd theme-switcher-app
 
 # Install dependencies
 npm install
 # or
 yarn install
+
